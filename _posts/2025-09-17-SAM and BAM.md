@@ -28,7 +28,7 @@ ERR005816.1408831 163 Chr1 19999970 23 40M5D30M2I28M =
 20000147 213 GGTGGGTGGATCACCTGAGATCGGGAGTTTGAGACTAGGTGG...  
 <=@A@??@=@A@A>@BAA@ABA:>@<>=BBB9@@2B3<=@A@... 
 ```
-![[images/col_of_sam_visual.png]]
+!(images/col_of_sam_visual.png)
 
 + FLAG: pairing, strand, mate strand 
 + RNAME: reference sequence NAME
@@ -68,4 +68,4 @@ ERR005816.1408831 163 Chr1 19999970 23 40M5D30M2I28M =
 	+ controlled loss of quality information 
 
 how reference-based compression works 
-![[images/CRAM_reference_based_compression.png|525]]
+!(images/CRAM_reference_based_compression.png|525)
