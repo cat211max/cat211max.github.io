@@ -1,3 +1,4 @@
+NGS resources 
 # Books 
 + Ismail2023, Bioinformatics : a practical guide to next generation sequencing data analysis 
 
