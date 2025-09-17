@@ -68,4 +68,4 @@ ERR005816.1408831 163 Chr1 19999970 23 40M5D30M2I28M =
 	+ controlled loss of quality information 
 
 how reference-based compression works 
-![CRAM reference based compression](../images/CRAM_reference_based_compression.png|525)
+![CRAM reference based compression](../images/CRAM_reference_based_compression.png)
